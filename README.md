@@ -3,4 +3,4 @@
 You need to install these package:
 
 
-`pip install scipy numpy pandas` 
+`pip install scipy numpy pandas matplotlib`
